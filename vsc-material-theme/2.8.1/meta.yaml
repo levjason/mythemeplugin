@@ -1,6 +1,6 @@
 id: vsc-material-theme
 version: 2.8.1
-type: VS Code Extension
+type: VS Code extension
 name: Material Theme
 title: Material Theme Plugin
 description: VS Code extension wrapped in a Che Plug-in
